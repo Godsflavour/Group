@@ -97,7 +97,7 @@ h2 {
 .card1:hover h1, .card1:hover p {
     transform: translateY(0);
 }
-
+/* 
 .card2 {
     width: 20em;
     height: 25em;
@@ -107,7 +107,7 @@ h2 {
     background-size: cover;
     color: #fff;
     border-radius: 18px;
-}
+} */
 
 .card2 .overlay {
     display: flex;
